@@ -1,0 +1,5 @@
+https://blog.betrybe.com/python/python-for/
+Tutoria para laço FOR
+
+A estrutura de repetição Python for é usada com objetos iteráveis para repetirmos uma ou várias instruções com cada item de uma sequência. 
+Ela contém características próprias da linguagem, como a utilização das declarações break, continue, else e pass, além do uso da função range(), que permite determinar a quantidade de repetições.
